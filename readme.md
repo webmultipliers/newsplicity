@@ -45,7 +45,7 @@ Explore the repository and use any aspect as inspiration for your own project.
   - index.html
 
 
-[PLUGIN]
+
 
 ## Pages
 - [404](https://template.sites.newsplicity.dev/404-page)
