@@ -1,4 +1,4 @@
-# About /wp-content/ Directory
+# About WP Content Directory
 
 The `/wp-content/` directory is one of the core directories in WordPress. It is used to store all the themes, plugins, and uploads. This directory is writable by the web server, which means that WordPress can write to it. This is where all the customization happens in WordPress.
 
