@@ -1,0 +1,1 @@
+# About /wp-content/ Directory
