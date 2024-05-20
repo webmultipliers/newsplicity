@@ -8,16 +8,11 @@ if (!defined('ABSPATH')) {
 	exit;
 }
 
-$temp_plugin = new NewsplicityCore();
+$newsplicity = new NewsplicityCore();
 
 class NewsplicityCore
 {
 	public function __construct()
-	{
-		add_action('init', array($this, 'init'));
-	}
-
-	public function init()
 	{
 		add_filter('blockstudio/settings/users/roles', function () {
 			return ["administrator"];
