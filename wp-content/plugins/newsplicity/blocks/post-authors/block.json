@@ -1,0 +1,9 @@
+{
+   "$schema": "https://app.blockstudio.dev/schema",
+   "apiVersion": 2,
+   "name": "newsplicity/post-authors",
+   "title": "Post Authors",
+   "category": "blockstudio",
+   "icon": "star-filled",
+   "blockstudio": true
+}
