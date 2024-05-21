@@ -1,0 +1,7 @@
+{
+   "$schema": "https://app.blockstudio.dev/schema",
+   "apiVersion": 2,
+   "name": "newsplicity/block-name",
+   "title": "Example Block",
+   "blockstudio": true
+}
