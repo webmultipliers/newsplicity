@@ -52,3 +52,8 @@ Explore the repository and use any aspect as inspiration for your own project.
 No direct support is provided for this project at this time. 
 
 [CREDITS]
+
+# Miscellany
+
+# Sponsorships
+
