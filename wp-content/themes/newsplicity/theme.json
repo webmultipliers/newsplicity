@@ -2,5 +2,10 @@
 	"$schema": "https://schemas.wp.org/trunk/theme.json",
 	"version": 3,
 	"title": "Newsplicity",
-	"description": "Newsplicity is a clean and modern theme for news publishers."
+	"description": "Newsplicity is a clean and modern theme for news publishers.",
+	"customTemplates": [],
+	"patterns": [],
+	"settings": {},
+	"styles": {},
+	"templateParts": []
 }
